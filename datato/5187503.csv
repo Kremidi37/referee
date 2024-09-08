@@ -1,0 +1,17 @@
+season_Match_Event_Type_primary,season_Match_Event_minute,season_Match_Event_second,season_Match_Event_infraction_yellowCard,season_Match_Event_infraction_redCard,season_Match_Event_playerId,season_Match_Event_opponentTeamId,season_Match_Event_teamId,season_Match_Event_infraction_opponentId,season_Match_Event_infraction_type,season_Match_Event_location_x,season_Match_Event_location_y
+infraction,0,49,False,False,519029,16195,16168,375022.0,regular_foul,21,93
+infraction,2,29,False,False,501474,16168,16195,629127.0,regular_foul,37,84
+infraction,13,51,False,False,607942,16195,16168,437532.0,regular_foul,31,25
+infraction,18,15,False,False,447746,16168,16195,517799.0,regular_foul,68,59
+infraction,19,8,False,False,707517,16195,16168,447746.0,regular_foul,32,19
+infraction,22,35,False,False,437532,16168,16195,607942.0,regular_foul,72,26
+infraction,23,50,False,False,689072,16168,16195,707523.0,regular_foul,29,31
+infraction,39,19,False,False,707523,16195,16168,501474.0,regular_foul,71,6
+offside,42,49,,,375022,16168,16195,,,82,49
+penalty,46,27,False,False,567403,16195,16168,518759.0,regular_foul,7,50
+infraction,50,56,False,False,447746,16168,16195,519029.0,regular_foul,39,64
+infraction,54,6,False,False,609679,16195,16168,447746.0,regular_foul,21,75
+offside,60,23,,,145610,16168,16195,,,90,43
+penalty,73,36,False,False,609679,16195,16168,513824.0,regular_foul,10,76
+infraction,89,39,False,False,629127,16195,16168,583608.0,regular_foul,96,90
+infraction,92,33,False,False,743915,16195,16168,375022.0,regular_foul,76,76
